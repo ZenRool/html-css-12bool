@@ -11,8 +11,9 @@
     background-color: #2055FF;
     color: white;
 
-
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
     white-space: nowrap;
     overflow: hidden;
@@ -33,5 +34,32 @@
     background-color: #00EF70;
     border: 1px solid #2055FF;
     height: 100%;
+
+}
+.c {
+    background-color: #B2DE00;
+
+}
+.d {
+    background-color: #00FFA0;
+
+}
+.e {
+    background-color: #5577FF;
+
+}
+.f {
+    background-color: #CE00DF;
+
+}
+.g {
+    background-color: #FF4444;
+}
+.a {
+    background-color: orange;
+
+}
+.b {
+    background-color: yellow;
 
 }
